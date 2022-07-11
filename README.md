@@ -1,0 +1,2 @@
+# drumkitProject
+This is a drumkit website where we can listen to different sounds of the instruments when a button is clicked or a key is pressed. I started by learning how to manipulate html elements using javascript and how to create responsive elements when a specific event occurs. I have used Event listeners for click and keydown event. I learnt about higher order functions and callback functions basics. This project was developed when I was learning about DOM and event listeners for the first time.  
